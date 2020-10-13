@@ -34,6 +34,6 @@ app.listen(3333);
 
 // MVC
 // M - Models - representatividade de um dado (ex.: usuário)
-// V - View
+// V - View -> poder determinar o que é enviado ao frontend (não é necessário enviar a senha do usuário, por exemplo)
 // C - Controller - rotas -> métodos (criar, editar, deletar, etc)
 
