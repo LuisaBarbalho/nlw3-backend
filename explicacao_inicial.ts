@@ -30,6 +30,7 @@ app.listen(3333);
 // Requisição -> Resposta
 // Express - framework simples em Node
 
+// -------------------------------------------
 
 // MVC
 // M - Models - representatividade de um dado (ex.: usuário)
