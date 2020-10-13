@@ -4,6 +4,7 @@ export default{
     render(image: Image) {
         return{
             id: image.id,
+            // Trocar por variável ambiente
             url: `http://localhost:3333/uploads/${image.path}`,
         };
     },
